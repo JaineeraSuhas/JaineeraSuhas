@@ -32,8 +32,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="83" src="https://i.pinimg.com/originals/06/ac/d4/06acd4c9e2acbe72cb9c3709434aa548.gif"  />
 
 ###
@@ -61,10 +59,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/JaineeraSuhas/JaineeraSuhas/output/snake.svg" alt="Snake animation" />
 
 ###
-<!---
-JaineeraSuhas/JaineeraSuhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
