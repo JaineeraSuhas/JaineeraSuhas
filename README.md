@@ -1,4 +1,3 @@
-
 <h6 align="center">WHYNOTMEIN</h6>
 
 ###
@@ -33,6 +32,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="83" src="https://i.pinimg.com/originals/06/ac/d4/06acd4c9e2acbe72cb9c3709434aa548.gif"  />
 
 ###
@@ -45,16 +46,20 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
   <a href="mailto:suhasjaineera@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:suhasjaineera@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
+  <a href="https://dev.to/suhas_jaineera_1f3bdbd0d4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=pink&labelColor=&style=for-the-badge" height="28" alt="devto logo"  />
+  </a>
+  <a href="https://web.telegram.org/k/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/JaineeraSuhas/JaineeraSuhas/output/snake.svg" alt="Snake animation" />
 
