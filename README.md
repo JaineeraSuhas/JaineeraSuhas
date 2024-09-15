@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="83" src="https://i.pinimg.com/originals/06/ac/d4/06acd4c9e2acbe72cb9c3709434aa548.gif"  />
+<img align="left" height="108" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtwY3IwdG1qZ2hpNmpmbmQ4NzZvMDB3OW1wZDh1dHk1dDM1OWcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5CxyX0bT7y0xYC4RY/giphy.webp"  />
 
 ###
 
@@ -60,6 +60,7 @@
 ###
 
 <br clear="both">
+
 
 
 
